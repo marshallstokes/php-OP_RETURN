@@ -10,7 +10,7 @@ MIT License (see headers in files)
 REQUIREMENTS
 ------------
 * PHP 5.x or later
-* Bitcoin Core 0.9 or later
+* Bitcoin Core 0.16.0 or later
 
 
 BEFORE YOU START
